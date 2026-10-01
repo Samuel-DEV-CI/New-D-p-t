@@ -10,7 +10,7 @@
 }
 
 html, body{
-  font-size: 60%;
+  font-size: 55%;
   width: 100%;
   overflow-x: hidden;
   background-color: black;
@@ -227,7 +227,7 @@ span{
     content: "Web Design";
   }
   41%,60%{
-    content: "Maintenance";
+    content: "Front-End Developer";
   }
 }
 
